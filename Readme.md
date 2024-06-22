@@ -56,4 +56,4 @@ Ainda no arquivo operacao_bancaria, foram criadas três funções:
    É exibido todas as operações realizadas;<br>
    Caso a tentativa de exibir as operações sem que tenham feito, é exibido a mensagem: "Não foram realizadas movimentações."
 
-### Autor: LuizFHSs
+### Autor: José Henrique
